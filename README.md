@@ -37,6 +37,8 @@ NOTE: The newely created branch won't be available until the changes in that per
 -- You can collaberate with the team members to maintain the performance on the peak always.
 -- Once the specific developement is done you can merge the pieces of code via pull requests.
 -- It will let other people to know what is going in your project.
+
+Garbage Branches: Many times it happens that branch is created but noone is working on it for may be any reason these types of branches are called as dead branches, happening this is very normal in practice as it won't affect the product or service anymore;
     
 
 
