@@ -17,7 +17,7 @@ Some steps to push the code on github:-
 
 6. git push origin main -- push the changes to remote and generates the hexadecimal code for the same version of code 
 
-For using the git you can also use the git commands through the github desktop but using git from terminal is the standard followed in industry.
+For using git you can also use git commands through github desktop but using git from terminal is standard followed in industry.
 
 
 ## Branching in GIT
