@@ -18,3 +18,17 @@ Some steps to push the code on github:-
 6. git push origin main -- push the changes to remote and generates the hexadecimal code for the same version of code 
 
 For using the git you can also use the git commands through the github desktop but using git from terminal is the standard followed in industry.
+
+
+## Branching in GIT
+
+7. git branch <new_branch> -- to create new branch
+                           --  this is used to give it to some other team/member where some other development work is going onn.
+                           -- this branch can be merged to the main branch once everything is okay with respect to code over there.
+
+8. git checkout <branch_name> -- used to switch from one branch to another branch 
+
+
+
+=============================================================================================
+
