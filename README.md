@@ -1,6 +1,6 @@
 # practice
 
-Some steps to push the code on github 
+Some steps to push the code on github:- 
 1. git init -- to add the existing repository as the git repository
             -- git adds one folder .git which will be the hidden folder which will contain all the git files which are software related.
             -- also add the files and turn onn the untracked mode "U"
@@ -16,3 +16,5 @@ Some steps to push the code on github
 5. git commit -m "commit message" -- save the changes to the git/say git be ready to push the changes to remote 
 
 6. git push origin main -- push the changes to remote and generates the hexadecimal code for the same version of code 
+
+For using the git you can also use the git commands through the github desktop but using git from terminal is the standard followed in industry.
