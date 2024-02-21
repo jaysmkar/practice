@@ -1,4 +1,4 @@
-# practice
+# Practice
 
 Some steps to push the code on github:- 
 1. git init -- to add the existing repository as the git repository
@@ -27,6 +27,17 @@ For using the git you can also use the git commands through the github desktop b
                            -- this branch can be merged to the main branch once everything is okay with respect to code over there.
 
 8. git checkout <branch_name> -- used to switch from one branch to another branch 
+
+NOTE: The newely created branch won't be available until the changes in that perticular branch is pushed on remote platforms.
+    Newley created branches won't be affecting the main branch
+
+
+
+## Advantages of branching and pull requests:
+-- You can collaberate with the team members to maintain the performance on the peak always.
+-- Once the specific developement is done you can merge the pieces of code via pull requests.
+-- It will let other people to know what is going in your project.
+    
 
 
 
