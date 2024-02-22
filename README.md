@@ -49,5 +49,5 @@ Garbage Branches: Many times it happens that branch is created but noone is work
                      -- run the command --> git merge "branch_name_to_be_merged" 
                      -- push the changes on cloud 
 
-10. Deleting the branch: -- git branch -d "branch_name_to_be_deleted" --> delete from the local  
-                         -- git push origin --delete "branch_name_to_be_deleted" -- delete from remote
+10. Deleting the branch: -- git branch -d <branch_name> --> delete branch locally 
+                         -- git push origin --delete <branch_name> --> delete branch from remote 
