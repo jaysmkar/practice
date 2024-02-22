@@ -40,7 +40,14 @@ NOTE: The newely created branch won't be available until the changes in that per
 
 Garbage Branches: Many times it happens that branch is created but noone is working on it for may be any reason these types of branches are called as dead branches, happening this is very normal in practice as it won't affect the product or service anymore.
 
-
-
 =============================================================================================
 
+
+## Merging and Deleting the branches 
+
+9. Merging branches: -- go to the branch where some other branch is to be merged 
+                     -- run the command --> git merge "branch_name_to_be_merged" 
+                     -- push the changes on cloud 
+
+10. Deleting the branch: -- git branch -d "branch_name_to_be_deleted" --> delete from the local  
+                         -- git push origin --delete "branch_name_to_be_deleted" -- delete from remote
