@@ -2,6 +2,12 @@
 
 1) git init -- to initialize the git repository
 
-2) dvc init -- io initialize the dvc in the specific file, it also creates the .dvc folder internally which contains the temp, gitigonre and    config file in the same which contains some information about the dvc configuration, it is just similar to the git as it creates the .git folder but in case of git .git folder is hidden here we can see it that is .dvc folder 
+2) dvc init -- to initialize the dvc repository  
 
 3) 
+
+DVC is only used to track the data files not the code
+    -- rather than adding the entire code to the git it is always a good idea to add the reference file to the data that will be data.dvc file to git 
+
+.dvc/config -- will contain all the information about remote repositories where the data needs to be added. 
+
